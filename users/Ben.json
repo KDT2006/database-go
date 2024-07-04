@@ -1,0 +1,12 @@
+{
+	"Name": "Ben",
+	"Age": 32,
+	"Contact": "123456789",
+	"Company": "Nothing",
+	"Address": {
+		"City": "Louisiana",
+		"State": "New Orleans",
+		"Country": "USA",
+		"Pincode": 149932
+	}
+}

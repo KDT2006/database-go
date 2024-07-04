@@ -1,0 +1,12 @@
+{
+	"Name": "Carl",
+	"Age": 28,
+	"Contact": "123456789",
+	"Company": "Apple",
+	"Address": {
+		"City": "New Jersey",
+		"State": "Newark",
+		"Country": "USA",
+		"Pincode": 11002
+	}
+}

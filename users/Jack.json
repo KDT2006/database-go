@@ -1,0 +1,12 @@
+{
+	"Name": "Jack",
+	"Age": 20,
+	"Contact": "123456789",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "San Francisco",
+		"State": "California",
+		"Country": "USA",
+		"Pincode": 12003
+	}
+}
